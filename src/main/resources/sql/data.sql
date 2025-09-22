@@ -1,4 +1,4 @@
-delete from REVIEW_ENTITY;
+odcdelete from REVIEW_ENTITY;
 delete from BOOK_ENTITY_AUTHORS;
 delete from AUTHOR_ENTITY;
 delete from BOOK_ENTITY;
